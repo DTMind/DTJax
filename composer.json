@@ -1,0 +1,21 @@
+{
+    "name": "dtmind/dtjax",
+    "type": "library",
+    "description": "Mutual conversion among array, json and xml ",
+    "keywords": ["json","array","xml"],
+    "homepage": "http://www.dtmind.com/dtjax/",    
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "DTMind",
+            "email": "develop@dtmind.com"
+        },
+        {
+            "name": "Stefano",
+            "email": "stefano@oggioni.net"
+        }        
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
