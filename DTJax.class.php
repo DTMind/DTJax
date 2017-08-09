@@ -43,7 +43,7 @@ class DTjax {
      *
      * @param  json		$json: json structure
      *
-     * @return array
+     * @return array  
      *
      */
     public static function jsonToArray($json) {
