@@ -53,9 +53,9 @@ class DTjax {
     /**
      * Convert a json structure into array
      *
-     * @param  json		$json: json structure
+     * @param  array		$array: json structure
      *
-     * @return array
+     * @return json
      *
      */
     public static function arrayToJson($array) {
